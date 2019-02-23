@@ -26,6 +26,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Google Analytics
 google_analytics: UA-134219008-1
