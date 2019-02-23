@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: The Growth PM
 email: rajit.dasgupta@gmail.com
-description: "Personal lessons from growing startups, and myself."
+description: Personal lessons from growing startups - and myself.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.thegrowthpm.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rajitdg
