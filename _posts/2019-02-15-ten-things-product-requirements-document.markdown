@@ -68,7 +68,7 @@ Here's a [handy list](https://www.romanpichler.com/blog/10-tips-writing-good-use
 
 This is the most crucial part of your product requirements document, which your developers will spend the most time on.
 
-Map out the user flow (I'm a huge fan of [draw.io](www.draw.io)){:target="_blank"} and include mockups for screens if you think it's valuable. Link to high fidelity mockups where applicable. 
+Map out the user flow (I'm a huge fan of [draw.io](www.draw.io){:target="_blank"}) and include mockups for screens if you think it's valuable. Link to high fidelity mockups where applicable. 
   
 Don't be afraid to head to a whiteboard or grab a paper and pen if it helps you save time.  
 
