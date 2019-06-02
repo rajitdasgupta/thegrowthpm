@@ -21,7 +21,7 @@ There is.
 In this post, I'll dive into a few tools that I use daily to make marketing iterations quicker, and more effective. This way, your design and tech teams can focus their energies on more impactful projects.
 
 
-# 1. Google Tag Manager
+# 1. [Google Tag Manager](https://marketingplatform.google.com/about/tag-manager/)
 
 ![google tag manager](https://i.imgur.com/831Wyb0.png "google tag manager")
 
@@ -41,7 +41,7 @@ Google Tag Manager (GTM) lets you manage these scripts and the data that they se
 They also have a neat feature that lets you roll-back to previous versions in case some change breaks your website.
 
 
-# 2. Zapier
+# 2. [Zapier](https://zapier.com/)
 
 ![zapier](https://cdn.zapier.com/storage/photos/da37bf1ea282413139a57c1c911e7c4b_2.png "zapier integration")
 
@@ -55,7 +55,7 @@ Some examples of automation that I've used:
 
 Mind you, all these neat superpowers come at a cost - beyond 100 tasks, Zapier will set you back $18/month. If you're in the market for a free tool, check out IFTTT. It manages to pack a punch - though lacking much of the configurability that Zapier provides.
 
-# 3. Unbounce
+# 3. [Unbounce](https://unbounce.com/)
 
 ![unbounce](https://i.imgur.com/dqxtXKi.png "unbounce")
 
@@ -74,9 +74,9 @@ All these tools have a library of high-performing templates to choose from. Give
 
 If you're a stickler for design and branding consistency, you can ask your designer to create a one-time page template that's on brand.You can then duplicate and tweak this for other paid marketing campaigns.
 
-Some alternatives: Leadpages and Instapage
+Some alternatives: [Leadpages](https://leadpages.net/) and [Instapage](https://instapage.com/)
 
-# 4. Visual Website Optimizer
+# 4. [Visual Website Optimizer](https://vwo.com/)
 
 ![VWO](https://wingify.com/images/product_screenshot@2x.png "VWO")
 
