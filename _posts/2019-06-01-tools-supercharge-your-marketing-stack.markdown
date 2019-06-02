@@ -4,7 +4,7 @@ title:  "4 Tools To Supercharge Your Marketing Stack"
 description: "Remove tech and design dependencies by using these tools - so that you can make quicker marketing iterations."
 date:   2019-06-01 17:42:23 -0800
 categories: marketing
-permalink: "/:categories/ten-things-product-requirements-document"
+permalink: "/:categories/tools-supercharge-your-marketing-stack"
 
 ---
 
